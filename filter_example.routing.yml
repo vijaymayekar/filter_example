@@ -1,0 +1,7 @@
+filter_example.page:
+  path: 'examples/filter-example'
+  defaults:
+    _controller: '\Drupal\filter_example\Controller\FilterExampleController::getContent'
+    _title: 'Filter Example'
+  requirements:
+    _permission: 'access content'

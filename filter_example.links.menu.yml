@@ -1,0 +1,4 @@
+filter_example.page:
+  title: Filter Example
+  route_name: filter_example.page
+  expanded: TRUE
